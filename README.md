@@ -1,19 +1,19 @@
 Quiz App 
 
-Developed a quiz application where users can:
-1) Answer multiple-choice questions.
-2) View results that are stored on a server using Firebase Firestore.
+- Developed a quiz application where users can:
+  1) Answer multiple-choice questions.
+  2) View results that are stored on a server using Firebase Firestore.
 
 
-Quiz App built with Android Jetpack Components (Navigation - MVVM) and Firebase Auth - Firestore.
+- Quiz App built with Android Jetpack Components (Navigation - MVVM) and Firebase Auth - Firestore.
 
-Key Skills used:
-Programming: Java
-Architecture: MVVM
-Jetpack Component: Navigation
-UI Components: RecyclerView
-Backend: Firebase Firestore
-Other Features: Animations
+- Key Skills used:
+  Programming: Java
+  Architecture: MVVM
+  Jetpack Component: Navigation
+  UI Components: RecyclerView
+  Backend: Firebase Firestore
+  Other Features: Animations
 
 
 Flow: 
