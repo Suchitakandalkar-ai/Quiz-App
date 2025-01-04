@@ -15,6 +15,9 @@ UI Components: RecyclerView
 Backend: Firebase Firestore
 Other Features: Animations
 
+
+Flow: 
+
 Homepage, with progressbar
 
 ![Home page with Progress bar](https://github.com/user-attachments/assets/dbd309f6-8222-4437-8d48-b822ca4df863)
